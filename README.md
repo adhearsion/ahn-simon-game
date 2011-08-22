@@ -6,8 +6,9 @@ An example component that implements the popular Simon Says game.
 
 ## Usage
 In dialplan.rb:
-```ruby
-mycontext {
-  simon_game
-}
-```
+    mycontext {
+      simon_game
+    }
+
+##Copyright
+(c) 2011 Mojolingo LLC
